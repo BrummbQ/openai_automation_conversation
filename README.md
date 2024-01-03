@@ -11,7 +11,6 @@ The component passes your binary_sensors and lights to the ChatGPT prompt, to ge
 3. Create an OpenAI account and fetch a token
 4. In Home Assistant integrations page add the integration _OpenAI Automatic Conversation_ and input the token from step 3
 5. Head to voice assist and add a new conversation agent, pick a name and select _OpenAI Automatic Conversation_ agent
-6. Make your Home Assistant entities you want to control available to the conversation agent
 
 Now in the chat window you can select your created agent and input queries
 
